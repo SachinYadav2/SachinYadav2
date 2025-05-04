@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinyadav2" alt="sachinyadav2" /></a> </p>
 
-- 🔭 I’m currently working on **Recommender system**
+- 🔭 I’m currently working in **LTIMindtree**
 
 - 🌱 I’m currently learning **Tensorflow,OpenCv**
 
